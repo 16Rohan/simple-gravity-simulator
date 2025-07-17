@@ -1,3 +1,3 @@
 # Simple Gravity Simulator
 
-### Simply Simulates Gravity
+## Simply Simulates Gravity
