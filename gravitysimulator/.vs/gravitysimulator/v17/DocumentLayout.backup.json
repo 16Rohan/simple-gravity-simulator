@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikra\\OneDrive\\Desktop\\Coding\\simple-gravity-simulator\\gravitysimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9509F64-EAD8-49DF-AB42-7C29FE3A25B6}|gravitysimulator\\gravitysimulator.vcxproj|C:\\Users\\vikra\\OneDrive\\Desktop\\Coding\\simple-gravity-simulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\vikra\\OneDrive\\Desktop\\Coding\\simple-gravity-simulator\\main.cpp",
+              "RelativeDocumentMoniker": "..\\main.cpp",
+              "ToolTip": "C:\\Users\\vikra\\OneDrive\\Desktop\\Coding\\simple-gravity-simulator\\main.cpp",
+              "RelativeToolTip": "..\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T07:27:28.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
